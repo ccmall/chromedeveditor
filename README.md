@@ -1,4 +1,5 @@
 # chromedeveditor
+下载地址:http://pan.baidu.com/s/1jI0eNGi
 谷歌开发编辑器(开发者预览版)
 ![image](https://cloud.githubusercontent.com/assets/13098589/12255846/3a115950-b933-11e5-8f6d-3a717ffd4334.png)
 ![image](https://cloud.githubusercontent.com/assets/13098589/12255855/5241c4ec-b933-11e5-9464-25cf8d9ca55f.png)
